@@ -37,7 +37,21 @@ We trained a YOLOv8 model for person detection using Google Colab and integrated
 
 - Steps:
 - Data Organization: Using Roboflow to organize and download the dataset
-- Training: Executing the training process in Google Colab using the downloaded dataset.
+  #### Code Snippet for Data Download:
+
+```python
+!mkdir {HOME}/datasets
+%cd {HOME}/datasets
+
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="J8wu6oMbicB452nma36z")
+project = rf.workspace("yolo-rpzka").project("teleicu-br4t2")
+version = project.version(6)
+dataset = version.download("yolov8")
+```
+-Training: Executing the training process in Google Colab using the downloaded dataset.
 For the full training script, please refer to [intelmodel1.py](scripts/intelmodel1.py).
 ## Results
 ### Step 4: Model Output
