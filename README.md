@@ -66,7 +66,7 @@ The model outputs include:
 - [Model 1 Output](outputmodel1.zip)
 ## Project Extension: Movement Detection Approach
 Overview
-This extension project uses YOLOv3 to detect beds and monitor patient movements in ICU settings, aiming to detect abnormal movements and trigger alarms.
+- This extension project uses YOLOv3 to detect beds and monitor patient movements in ICU settings, aiming to detect abnormal movements and trigger alarms.
 
 Key Points
 - Requirements: Python, OpenCV, Numpy, Winsound (Windows-specific)
@@ -77,8 +77,8 @@ Key Points
 ##  Movement Detection Output
   [The output file](movementdetectionoutput.zip)
 ## Documentation
-- [Project Report]()
-- [Project Presentation]()
+- [Project Report](ProjectReport.pdf)
+- [Project Presentation](ProjectPresentation.pdf)
 ## Contributors
 
 - [Neha Ann Biju](https://github.com/nehaannbiju)
