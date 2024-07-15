@@ -8,8 +8,12 @@ The main objective of the "Innovative Monitoring System for TELE ICU Patients Us
 - [Data Preparation](#data-preparation)
 - [Labeling](#labeling)
 - [Model Training](#model-training)
-- [Results](#results)
+- [Model 1 Output](#model1output)
+- [Project Extension: Movement Detection Approach](#project-extension-movement-detection-approach)
+- [Movement Detection Output](#movement-detection-output)
+- [Documentation](#documentation)
 - [Contributors](#contributors)
+- [Acknowledgements](#acknowledgements)
 
 ## Data Preparation
 
@@ -59,6 +63,7 @@ The model outputs include:
 
 - JPG images with bounding boxes and confidence percentages.
 - Confidence curves to visualize the model's performance.
+- [Model 1 Output](outputmodel1.zip)
 ## Project Extension: Movement Detection Approach
 Overview
 This extension project uses YOLOv3 to detect beds and monitor patient movements in ICU settings, aiming to detect abnormal movements and trigger alarms.
@@ -66,10 +71,14 @@ This extension project uses YOLOv3 to detect beds and monitor patient movements 
 Key Points
 - Requirements: Python, OpenCV, Numpy, Winsound (Windows-specific)
 - Model Files: yolov3.weights, yolov3.cfg, coco.names
-- Main Script: bed_detection.py
-- Example Script:
-- Movement Detection Files-
-- Sample Video: patient_abnormal_video.mp4
+- Example Script:ideaextensionexample.py
+- Movement Detection Files: https://drive.google.com/drive/folders/1quvOWaLVFn9FiTfUV0Hd1Lr3HMpGqYEK?usp=sharing
+- Sample Video: patient abnormal video.mp4
+##  Movement Detection Output
+  The output file : movement detection output.zip
+## Documentation
+- [Project Report]()
+- [Project Presentation]()
 ## Contributors
 
 - [Neha Ann Biju](https://github.com/nehaannbiju)
