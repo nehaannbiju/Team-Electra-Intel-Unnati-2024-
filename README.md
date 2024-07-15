@@ -56,7 +56,7 @@ version = project.version(6)
 dataset = version.download("yolov8")
 ```
 -Training: Executing the training process in Google Colab using the downloaded dataset.
-For the full training script, please refer to [intelmodel1.py](scripts/intelmodel1.py).
+For the full training script, please refer to [intelmodel1.ipynb](intelmodel1.ipynb).
 ## Results
 ### Step 4: Model 1 Output
 The model outputs include:
