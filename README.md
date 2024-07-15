@@ -71,11 +71,11 @@ This extension project uses YOLOv3 to detect beds and monitor patient movements 
 Key Points
 - Requirements: Python, OpenCV, Numpy, Winsound (Windows-specific)
 - Model Files: yolov3.weights, yolov3.cfg, coco.names
-- Example Script:ideaextensionexample.py
+- [Example Script](ideaextensionexample.py)
 - Movement Detection Files: https://drive.google.com/drive/folders/1quvOWaLVFn9FiTfUV0Hd1Lr3HMpGqYEK?usp=sharing
-- Sample Video: patient abnormal video.mp4
+- [Sample Video](patientabnormalvideo.mp4)
 ##  Movement Detection Output
-  The output file : movement detection output.zip
+  [The output file](movementdetectionoutput.zip)
 ## Documentation
 - [Project Report]()
 - [Project Presentation]()
