@@ -54,7 +54,7 @@ dataset = version.download("yolov8")
 -Training: Executing the training process in Google Colab using the downloaded dataset.
 For the full training script, please refer to [intelmodel1.py](scripts/intelmodel1.py).
 ## Results
-### Step 4: Model Output
+### Step 4: Model 1 Output
 The model outputs include:
 
 - JPG images with bounding boxes and confidence percentages.
@@ -66,6 +66,12 @@ The model outputs include:
 - [Devatha D](https://github.com/DevathaD)
 - [Sreelakshmi J](https://github.com/sreelakshmij56)
 - [Nikitha Linto](https://github.com/nikithalinto)
+## Acknowledgements
+
+## Acknowledgements
+
+We would like to express our sincere gratitude to our mentor, Dr. Starlet Ben Alex, for her invaluable guidance and support throughout this project. We also extend our thanks to Mr. Siju K S for his significant contributions and assistance. Furthermore, we would like to thank Intel Unnati for providing us with the opportunity to undertake and complete this project.
+
 
 
 
