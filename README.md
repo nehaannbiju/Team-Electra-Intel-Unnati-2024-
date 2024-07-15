@@ -59,6 +59,17 @@ The model outputs include:
 
 - JPG images with bounding boxes and confidence percentages.
 - Confidence curves to visualize the model's performance.
+## Project Extension: Movement Detection Approach
+Overview
+This extension project uses YOLOv3 to detect beds and monitor patient movements in ICU settings, aiming to detect abnormal movements and trigger alarms.
+
+Key Points
+- Requirements: Python, OpenCV, Numpy, Winsound (Windows-specific)
+- Model Files: yolov3.weights, yolov3.cfg, coco.names
+- Main Script: bed_detection.py
+- Example Script:
+- Movement Detection Files-
+- Sample Video: patient_abnormal_video.mp4
 ## Contributors
 
 - [Neha Ann Biju](https://github.com/nehaannbiju)
@@ -66,7 +77,6 @@ The model outputs include:
 - [Devatha D](https://github.com/DevathaD)
 - [Sreelakshmi J](https://github.com/sreelakshmij56)
 - [Nikitha Linto](https://github.com/nikithalinto)
-## Acknowledgements
 
 ## Acknowledgements
 
