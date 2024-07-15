@@ -77,8 +77,8 @@ Key Points
 ##  Movement Detection Output
   [The output file](movementdetectionoutput.zip)
 ## Documentation
-- [Project Report](ProjectReport.pdf)
-- [Project Presentation](ProjectPresentation.pdf)
+- [Project -Report](ProjectReport.pdf)
+- [Project -Presentation](ProjectPresentation.pdf)
 ## Contributors
 
 - [Neha Ann Biju](https://github.com/nehaannbiju)
